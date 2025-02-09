@@ -2,8 +2,8 @@
 -- PostgreSQL database dump
 --
 
--- Dumped from database version 12.9 (Ubuntu 12.9-2.pgdg20.04+1)
--- Dumped by pg_dump version 12.9 (Ubuntu 12.9-2.pgdg20.04+1)
+-- Dumped from database version 12.17 (Ubuntu 12.17-1.pgdg22.04+1)
+-- Dumped by pg_dump version 12.17 (Ubuntu 12.17-1.pgdg22.04+1)
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -140,8 +140,8 @@ INSERT INTO public.properties VALUES (4, 9.0122, 1287, 2470, 1);
 INSERT INTO public.properties VALUES (6, 12.011, 3550, 4027, 2);
 INSERT INTO public.properties VALUES (7, 14.007, -210.1, -195.8, 2);
 INSERT INTO public.properties VALUES (8, 15.999, -218, -183, 2);
-INSERT INTO public.properties VALUES (10, 20.18, -248.6, -246.1, 2);
 INSERT INTO public.properties VALUES (9, 18.998, -220, -188.1, 2);
+INSERT INTO public.properties VALUES (10, 20.18, -248.6, -246.1, 2);
 
 
 --
